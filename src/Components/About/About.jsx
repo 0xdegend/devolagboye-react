@@ -215,7 +215,7 @@ const About = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/Akingbola1234"
+            href="https://github.com/0xdegend"
           >
             GitHub
           </a>
