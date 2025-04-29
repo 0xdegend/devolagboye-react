@@ -208,7 +208,7 @@ const About = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/devolagboye"
+            href="https://twitter.com/devolagboy"
           >
             Twitter
           </a>
