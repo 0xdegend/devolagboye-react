@@ -41,7 +41,7 @@ const Contact = () => {
             I post about Tech and Frontend and my lifestyle, we can collaborate
             on{" "}
             <a
-              href="https://github.com/DevOlagboye"
+              href="https://github.com/0xdegend"
               target="_blank"
               rel="noreferrer"
             >
